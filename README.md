@@ -1,10 +1,9 @@
-# Past Projects
+# Special Offers Landing Pages
 
 ## Tech Stack
 
 **Languages:** HTML, CSS, Javascript/jQuery 
 
-## Special Offers Landing Pages
 
 ## Live Link
 [https://mygrande.com/celebrate](https://mygrande.com/celebrate) 
