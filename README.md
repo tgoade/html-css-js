@@ -7,6 +7,6 @@
 ## Special Offers Landing Page
 
 <p>
-  <img src="screenshots/new-special-offers.jpg" alt="Screen Recording 1" width="600" height="2241">  
+  <img src="screenshots/new-special-offers.jpg" alt="Screen Recording 1" width="550" height="2054">  
 </p> 
 
