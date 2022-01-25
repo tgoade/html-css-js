@@ -5,8 +5,6 @@
 **Languages:** HTML, CSS, Javascript/jQuery 
 
 
-## Live Link
-[https://mygrande.com/celebrate](https://mygrande.com/celebrate) 
 <p>
   <img src="screenshots/celebrate.jpg" alt="" width="550" height="944">  
 </p> 
@@ -15,8 +13,7 @@
 </p> 
 <br/>
 
-## Live Link
-[https://www.rcn.com/discoverrcn](https://www.rcn.com/discoverrcn) 
+
 <br/>
 <p>
   <img src="screenshots/new-special-offers.jpg" alt="" width="550" height="2054">  
